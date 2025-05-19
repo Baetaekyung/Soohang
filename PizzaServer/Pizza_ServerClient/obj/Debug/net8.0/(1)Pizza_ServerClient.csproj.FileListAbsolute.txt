@@ -1,0 +1,15 @@
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\bin\Debug\net8.0\(1)Pizza_ServerClient.exe
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\bin\Debug\net8.0\(1)Pizza_ServerClient.deps.json
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\bin\Debug\net8.0\(1)Pizza_ServerClient.runtimeconfig.json
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\bin\Debug\net8.0\(1)Pizza_ServerClient.dll
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\bin\Debug\net8.0\(1)Pizza_ServerClient.pdb
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.AssemblyInfoInputs.cache
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.AssemblyInfo.cs
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.csproj.CoreCompileInputs.cache
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.sourcelink.json
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.dll
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\refint\(1)Pizza_ServerClient.dll
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.pdb
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\(1)Pizza_ServerClient.genruntimeconfig.cache
+C:\Users\tkway\FromBase\PizzaServer\Pizza_ServerClient\obj\Debug\net8.0\ref\(1)Pizza_ServerClient.dll

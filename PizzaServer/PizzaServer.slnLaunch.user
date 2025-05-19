@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "(2)Pizza_Thread\\(2)Pizza_Thread.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SimpleClient\\(0)SimpleClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

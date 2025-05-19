@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkway\\Soohang\\PizzaServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BA3491-5FE0-42A4-AD51-4A5993E8DE5F}|(4)Pizza_Event\\(4)Pizza_Event.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\(4)pizza_event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BA3491-5FE0-42A4-AD51-4A5993E8DE5F}|(4)Pizza_Event\\(4)Pizza_Event.csproj|solutionrelative:(4)pizza_event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BA3491-5FE0-42A4-AD51-4A5993E8DE5F}|(4)Pizza_Event\\(4)Pizza_Event.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\(4)pizza_event\\eventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BA3491-5FE0-42A4-AD51-4A5993E8DE5F}|(4)Pizza_Event\\(4)Pizza_Event.csproj|solutionrelative:(4)pizza_event\\eventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BA3491-5FE0-42A4-AD51-4A5993E8DE5F}|(4)Pizza_Event\\(4)Pizza_Event.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\(4)pizza_event\\eventloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BA3491-5FE0-42A4-AD51-4A5993E8DE5F}|(4)Pizza_Event\\(4)Pizza_Event.csproj|solutionrelative:(4)pizza_event\\eventloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6141A4-BD29-438E-B286-46909864219A}|BusyClient\\(99)BusyClient.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\busyclient\\(99)busyclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E6141A4-BD29-438E-B286-46909864219A}|BusyClient\\(99)BusyClient.csproj|solutionrelative:busyclient\\(99)busyclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD283E55-43A7-4BD0-A7B4-B367A10FA409}|(2)Pizza_Thread\\(2)Pizza_Thread.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\(2)pizza_thread\\threadserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD283E55-43A7-4BD0-A7B4-B367A10FA409}|(2)Pizza_Thread\\(2)Pizza_Thread.csproj|solutionrelative:(2)pizza_thread\\threadserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE9C329-D6DC-452F-8880-4DC902C92D4F}|Pizza_NonB\\(3)Pizza_NonB.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\pizza_nonb\\nonbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE9C329-D6DC-452F-8880-4DC902C92D4F}|Pizza_NonB\\(3)Pizza_NonB.csproj|solutionrelative:pizza_nonb\\nonbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6141A4-BD29-438E-B286-46909864219A}|BusyClient\\(99)BusyClient.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\busyclient\\busyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6141A4-BD29-438E-B286-46909864219A}|BusyClient\\(99)BusyClient.csproj|solutionrelative:busyclient\\busyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82147860-8081-44DD-A0DF-8AD62BE18CC5}|Pizza_ServerClient\\(1)Pizza_ServerClient.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\pizza_serverclient\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82147860-8081-44DD-A0DF-8AD62BE18CC5}|Pizza_ServerClient\\(1)Pizza_ServerClient.csproj|solutionrelative:pizza_serverclient\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F217FAC-B54A-45F2-9642-5F80D4FF5AF8}|SimpleClient\\(0)SimpleClient.csproj|c:\\users\\tkway\\soohang\\pizzaserver\\simpleclient\\pizzaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F217FAC-B54A-45F2-9642-5F80D4FF5AF8}|SimpleClient\\(0)SimpleClient.csproj|solutionrelative:simpleclient\\pizzaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "(99)BusyClient.csproj",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\BusyClient\\(99)BusyClient.csproj",
+              "RelativeDocumentMoniker": "BusyClient\\(99)BusyClient.csproj",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\BusyClient\\(99)BusyClient.csproj",
+              "RelativeToolTip": "BusyClient\\(99)BusyClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T04:57:02.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(4)Pizza_Event\\Program.cs",
+              "RelativeDocumentMoniker": "(4)Pizza_Event\\Program.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(4)Pizza_Event\\Program.cs",
+              "RelativeToolTip": "(4)Pizza_Event\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:59:28.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventServer.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(4)Pizza_Event\\EventServer.cs",
+              "RelativeDocumentMoniker": "(4)Pizza_Event\\EventServer.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(4)Pizza_Event\\EventServer.cs",
+              "RelativeToolTip": "(4)Pizza_Event\\EventServer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:59:12.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventLoop.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(4)Pizza_Event\\EventLoop.cs",
+              "RelativeDocumentMoniker": "(4)Pizza_Event\\EventLoop.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(4)Pizza_Event\\EventLoop.cs",
+              "RelativeToolTip": "(4)Pizza_Event\\EventLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:58:32.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NonBServer.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\Pizza_NonB\\NonBServer.cs",
+              "RelativeDocumentMoniker": "Pizza_NonB\\NonBServer.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\Pizza_NonB\\NonBServer.cs",
+              "RelativeToolTip": "Pizza_NonB\\NonBServer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwGwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:33:28.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusyClient.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\BusyClient\\BusyClient.cs",
+              "RelativeDocumentMoniker": "BusyClient\\BusyClient.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\BusyClient\\BusyClient.cs",
+              "RelativeToolTip": "BusyClient\\BusyClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:21:38.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThreadServer.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(2)Pizza_Thread\\ThreadServer.cs",
+              "RelativeDocumentMoniker": "(2)Pizza_Thread\\ThreadServer.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\(2)Pizza_Thread\\ThreadServer.cs",
+              "RelativeToolTip": "(2)Pizza_Thread\\ThreadServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:42:11.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\Pizza_ServerClient\\Server.cs",
+              "RelativeDocumentMoniker": "Pizza_ServerClient\\Server.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\Pizza_ServerClient\\Server.cs",
+              "RelativeToolTip": "Pizza_ServerClient\\Server.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:57:21.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaClient.cs",
+              "DocumentMoniker": "C:\\Users\\tkway\\Soohang\\PizzaServer\\SimpleClient\\PizzaClient.cs",
+              "RelativeDocumentMoniker": "SimpleClient\\PizzaClient.cs",
+              "ToolTip": "C:\\Users\\tkway\\Soohang\\PizzaServer\\SimpleClient\\PizzaClient.cs",
+              "RelativeToolTip": "SimpleClient\\PizzaClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:56:30.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

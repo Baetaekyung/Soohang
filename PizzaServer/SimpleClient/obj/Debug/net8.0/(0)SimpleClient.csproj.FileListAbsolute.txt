@@ -1,0 +1,15 @@
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\bin\Debug\net8.0\(0)SimpleClient.exe
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\bin\Debug\net8.0\(0)SimpleClient.deps.json
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\bin\Debug\net8.0\(0)SimpleClient.runtimeconfig.json
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\bin\Debug\net8.0\(0)SimpleClient.dll
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\bin\Debug\net8.0\(0)SimpleClient.pdb
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.AssemblyInfoInputs.cache
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.AssemblyInfo.cs
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.sourcelink.json
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.dll
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\refint\(0)SimpleClient.dll
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.pdb
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\(0)SimpleClient.genruntimeconfig.cache
+C:\Users\tkway\FromBase\PizzaServer\SimpleClient\obj\Debug\net8.0\ref\(0)SimpleClient.dll
